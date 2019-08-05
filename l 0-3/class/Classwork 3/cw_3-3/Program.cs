@@ -19,7 +19,7 @@ namespace cw_3_3
                 "Andrey",
                 "Maria",
                 "Alexander",
-                "Eugenia",
+              "Eugenia",
                 );
             for (int i = 0; i < names.Length; i++)
             {
